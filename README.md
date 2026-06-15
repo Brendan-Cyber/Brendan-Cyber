@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**Brendan-Cyber/Brendan-Cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Brendan Agbebleo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Computer Science Student
+
+Interested in:
+- Linux System Administration
+- DevOps
+- Networking
+- Cybersecurity
+- Automation
+
+## Current Projects
+
+- Sysadmin Toolkit (Bash + Python)
+- Hyprland Dotfiles
+- Cybersecurity Labs
+
+## Currently Learning
+
+- Bash Scripting
+- Linux Administration
+- Docker
