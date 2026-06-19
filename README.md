@@ -26,3 +26,5 @@ Interested in:
 
 #Certifications
 
+- Google Cybersecurity certificate
+- 
